@@ -17,7 +17,7 @@ To install and run the feedback management system, follow these steps:
 
 1.  Install PHP and a web server like Apache
 2.  Install a database like MySQL
-3.  Clone this repository using `git clone https://github.com/yourusername/feedback-management-system.git`
+3.  Clone this repository using `git clone https://github.com/E-Santhosh/feedback-management-system.git`
 4.  Create a database schema using the SQL file provided in the `sql` folder
 5.  Update the database connection settings in `config.php`
 6.  Run the application by accessing `index.php` in your web browser
@@ -36,4 +36,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Credits
 
-This project was created by [Your Name]. Special thanks to [Contributor Name] for their contributions.
+This project was created by E.santhosh.
